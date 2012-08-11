@@ -1,0 +1,1 @@
+This is a simple program I'm writing to learn Python, and to a lesser extent PyGame and Git. The program creates a game world in the form of nested arrays that the player can navigate around. Pygame handles user input and creating a visual representation of the game world. 
